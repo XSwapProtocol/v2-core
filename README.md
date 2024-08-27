@@ -1,24 +1,9 @@
-# Uniswap V2
+# XSwap Protocol V2 Core Contracts 
 
-[![Actions Status](https://github.com/Uniswap/uniswap-v2-core/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-core/actions)
-[![Version](https://img.shields.io/npm/v/@uniswap/v2-core)](https://www.npmjs.com/package/@uniswap/v2-core)
-
-In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
-
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-core@latest/).
-
-# Local Development
-
-The following assumes the use of `node@>=10`.
-
-## Install Dependencies
-
-`yarn`
-
-## Compile Contracts
-
-`yarn compile`
-
-## Run Tests
-
-`yarn test`
+### Apothem Addresses:
+- factory: `0xCae66ac135d6489BDF5619Ae8F8f1e724765eb8f`
+- weth: `0x2a5c77b016Df1b3b0AE4E79a68F8adF64Ee741ba`
+- router: `0x3F11A24EB45d3c3737365b97A996949dA6c2EdDf`
+- ERC20: `0xc33BfDD2211dD9A61355B08dc19A68d0e3816f65`
+- token-wbnb pair: `0x9C4649580fF7754F5213F57e65692689742b7909`
+- multicall: `0xFC96B6C4A1775aD2Cbe3fF6E2d82A190A69f7ABB`
